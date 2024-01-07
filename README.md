@@ -1,4 +1,4 @@
-# Scrimba - Meme Generator solution
+#  - Meme Generator solution
 
 This is a solution to the [Meme Generator project on Scrimba](https://scrimba.com/learn/learnreact/). Scrimba helps you improve your coding skills by building realistic projects.
 

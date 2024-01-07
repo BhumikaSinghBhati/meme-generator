@@ -5,11 +5,11 @@ export default function Footer() {
         Coded with ❤️ by{" "}
         <a
           className="footer--link"
-          href="https://emanueledelmonte.it"
+          href="https://github.com/BhumikaSinghBhati"
           target="_blank"
           rel="noreferrer"
         >
-          Emanuele Del Monte
+          Bhumika Singh Bhati
         </a>
         .
       </small>
